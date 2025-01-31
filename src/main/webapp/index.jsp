@@ -35,6 +35,10 @@ Phone Number: <input type = "text" name = "phone" />
 <p>
 Address: <input type = "text" name = "Address" />
 </p>
+
+<p>
+Pincode: <input type = "text" name = "pincode" />
+</p>
  
  <p>
       <input type = "submit" name = "submit" value = "Submit" />
